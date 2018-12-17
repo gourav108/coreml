@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Helicopter _ Google Search</folder>
+	<filename>File326.jpg</filename>
+	<path>/Users/gourav/Downloads/ML/Helicopter _ Google Search/File326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>818</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>145</ymin>
+			<xmax>713</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fiddle _ Google Search</folder>
+	<filename>File156.jpg</filename>
+	<path>/Users/gourav/Downloads/ML/Fiddle _ Google Search/File156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>614</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fiddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>9</ymin>
+			<xmax>605</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

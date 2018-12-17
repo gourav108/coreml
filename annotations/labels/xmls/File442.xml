@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Paraglider _ Google Search</folder>
+	<filename>File442.jpg</filename>
+	<path>/Users/gourav/Downloads/ML/Paraglider _ Google Search/File442.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paraglider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>63</ymin>
+			<xmax>654</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

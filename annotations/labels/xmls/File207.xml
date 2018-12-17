@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grand Piano _ Google Search</folder>
+	<filename>File207.jpg</filename>
+	<path>/Users/gourav/Downloads/ML/Grand Piano _ Google Search/File207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GrandPiano</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>281</ymin>
+			<xmax>590</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

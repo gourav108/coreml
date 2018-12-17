@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZEBRA _ Google Search</folder>
+	<filename>File590.jpeg</filename>
+	<path>/Users/gourav/Downloads/ML/ZEBRA _ Google Search/File590.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>76</ymin>
+			<xmax>1580</xmax>
+			<ymax>962</ymax>
+		</bndbox>
+	</object>
+</annotation>

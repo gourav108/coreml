@@ -1,0 +1,38 @@
+<annotation>
+	<folder>airplane propeller _ Google Search</folder>
+	<filename>File33.jpg</filename>
+	<path>/Users/gourav/Downloads/ML/airplane propeller _ Google Search/File33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>783</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Propeller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>311</ymin>
+			<xmax>563</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Propeller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>305</ymin>
+			<xmax>1177</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

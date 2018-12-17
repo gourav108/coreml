@@ -1,0 +1,38 @@
+<annotation>
+	<folder>us military helicopters _ Google Search</folder>
+	<filename>File520.jpg</filename>
+	<path>/Users/gourav/Downloads/ML/us military helicopters _ Google Search/File520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>553</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MilitaryHelicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>113</ymin>
+			<xmax>608</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MilitaryHelicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>274</ymin>
+			<xmax>257</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

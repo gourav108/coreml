@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Electric Guitar _ Google Search</folder>
+	<filename>File94.JPG</filename>
+	<path>/Users/gourav/Downloads/ML/Electric Guitar _ Google Search/File94.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ElectricGuitar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>42</ymin>
+			<xmax>2563</xmax>
+			<ymax>1400</ymax>
+		</bndbox>
+	</object>
+</annotation>
